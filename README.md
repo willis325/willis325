@@ -2,7 +2,8 @@
 
 <div>
   <h1 align="center">
-    <b> Hey bro! 👋 I'm Willis. Welcome to Willis's Debugging Zone </b>
+    <p> <b>  Hi, I'm <span style="color: #1e80ff">Willis</span> - a full-stack developer </b> <p> 
+    <p> The only way to do great work is to love what you do </p>
   </h1>
 </div>
 
@@ -28,6 +29,7 @@
   [![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxt&link=https://github.com/willis325/)](https://github.com/willis325/)
   [![Next.js](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js&link=https://github.com/willis325/)](https://github.com/willis325/)
   [![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/willis325/)](https://github.com/willis325/)
+  [![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express&link=https://github.com/willis325/)](https://github.com/willis325/)
   [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/willis325/)](https://github.com/willis325/)
   [![Mongodb](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb&link=https://github.com/willis325/)](https://github.com/willis325/)
   [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/willis325/)](https://github.com/willis325/)
@@ -40,6 +42,6 @@
 </div>
 
 <div align="center">
-  <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willis325&hide_title=true&hide_border=true&layout=compact&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api?username=willis325&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=24&theme=graywhite&text_color=333333&icon_color=333333" />
+  <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willis325&hide_title=true&layout=compact&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api?username=willis325&hide_title=true&show_icons=true&include_all_commits=true&line_height=24&theme=graywhite&text_color=333333&icon_color=333333" />
 </div>
 
